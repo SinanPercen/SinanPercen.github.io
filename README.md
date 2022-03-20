@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SinanPercen/SinanPercen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I like pizza.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Serkan ist ein kek.
 
 ### Nothing to see here
 
