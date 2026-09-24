@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
 
-I like pizza.
-
-Serkan ist ein kek.
 
 ### Nothing to see here
 
